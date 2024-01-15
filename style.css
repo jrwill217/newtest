@@ -1,0 +1,24 @@
+p{
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 800;
+}
+
+.title{
+    color: red;
+    background-color: aquamarine;
+    width: 50vw;
+}
+
+.title:hover{
+    color: black;
+    cursor: pointer;
+}
+
+#id1{
+    color: brown;
+}
+
+.img1{
+    width: 100%;
+}
